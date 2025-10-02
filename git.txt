@@ -1,0 +1,9 @@
+1. Git is tool
+
+11. Staging area buffer
+15. Soft reset safe
+
+16. Mixed reset default
+
+26. Diff shows changes
+30. Mv renames files
